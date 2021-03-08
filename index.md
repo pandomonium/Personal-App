@@ -2,13 +2,11 @@
 
 [Register](Register.html)
 
-[Sign In](Account-Settings.html)
+[Sign In](Sign-In.html)
 
-[Sign Out](Sign-Up.html)
+[Sign Out](Sign-Out.html)
 
 [Browse Photos](Browse-Photos.html)
-
-[Browse for Goods](Browse-Goods.html)
 
 [Add Photos](Add-Photos.html)
 
