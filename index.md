@@ -4,7 +4,7 @@
 
 [Sign In](Account-Settings.html)
 
-[Sign-Out](Sign-Up.html)
+[Sign Out](Sign-Up.html)
 
 [Browse Photos](Browse-Photos.html)
 
@@ -19,9 +19,6 @@
 [Enable Location](Enable-Location.html)
 
 [Support](Support.html)
-
-
-
 
 
 
